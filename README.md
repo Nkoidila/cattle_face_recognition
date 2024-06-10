@@ -1,1 +1,1 @@
-# cattle_face_detection
+# cattle_face_recognition
